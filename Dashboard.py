@@ -15,8 +15,6 @@ client = gspread.authorize(creds)
 spreadsheet = client.open_by_key("19dRpsMDpz8EcSnyIYVz_fYjnz55-Id1j5SHZzzTBTnE")  # Ganti dengan ID spreadsheet kamu
 sheet = spreadsheet.sheet1
 data = sheet.get_all_records()
-st.write("Data dari Google Sheets:")
-st.write(data)
 
 # Ambil data
 data = sheet.get_all_records()
