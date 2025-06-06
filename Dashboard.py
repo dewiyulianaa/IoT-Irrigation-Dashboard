@@ -56,6 +56,6 @@ st.write("### 🌡️ Grafik Suhu & Kelembaban Udara")
 st.line_chart(df[["Suhu", "Kelembaban Udara"]])
 
 # Auto refresh
-st.write("⏳ Dashboard akan diperbarui otomatis setiap 5 detik...")
-time.sleep(5)
+st.write("⏳ Dashboard akan diperbarui otomatis setiap 30 detik...")
+time.sleep(30)
 st.rerun()
