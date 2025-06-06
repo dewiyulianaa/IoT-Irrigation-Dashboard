@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "iot-irrigation-dashboard",
+  "private_key_id": "f5014770d38d5e119b8ed0a6f21c77f29781df60",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCamhi2D67ThzS9\npdF6nFZgUOSSClMV5bUPBZKyFTMippsEe6IK27yBFOI4sikMiXmEP2xuJHgkgYET\np8e1VTRWdT5P6XsM7QYJojxBGRcMxTSuNzNQ/pIfoPTuueB6h4Ff18h5O5UVYEBn\nViaiEuLloYM9/Zs9PjCMmk0BcYRq03IP+1xbuPapajAys+9nEV7XOqfj3L0bkXDi\nA9Si065nCQ37niDfy54ph/oBqV4rJlr7aGhEa6y9n7QRipcrpZVgAFUESQArq/d4\nboNOiaujG5JpzjJpPp/pZ6FU5IiIwWSDNoHjRH/eqe/0FNpEp+EbonU1B79/AxhQ\nqirPcIt9AgMBAAECggEAHw7bbYG/i5eTIRE1gMX09ULy9CK2V8UOh07FjliDbg/d\nvvwOTNOhbiYRnzWtWOsqOgbaw9K4Pw80LMxtKpDMI51IkBm1wl5AcwGATMybTJG2\neFQ3DyuhE9EMO4QkZEEiHKy3BaHSXJm6Png4aSFVqy9z8+llfRtn+esKksJpCWOS\nM80GaBfBali83rhVF9QfztH6ecbkXHfaHIURpMzoELxdpFY1sLT6hH4Ub/c0ov6p\nI9Hfu7/fNjkTpoVulLrXZsvMpDumBqW4TimOvAgkecoWWYm369isEqn4D+hoL7NL\n830GI+0GjkjEO618zwhugctngyyA4F1upKgFxkspYQKBgQDaaWlNcdcBZE7KF28n\nLHQroMmoeAyJM7V7xTof01DisqWFijkcRWxpWcfOm/w7U+NVEJD0LvfFPm+SoHGD\nvxpsQfoCjnSu1eRBGwTWWxdYVrea+lxj9mDlGT75L+QI5oE4wJTYGhqMgAfbhsk3\nPTc1DvXQirhZf1k5kaqy7HQnnQKBgQC1NWjTxquqERhcfzf40ABH+bm/f2L7HcAD\nq0haqgBwMlJdr4b1J/P01c5CIvH7WatoX9kUtOeJNYlpefuA+vNys7BrAhh3HBpw\nf6W2T8uVsA+sIm3Jf7PVYJnFKa8MjhAXe+SuQQ4E5wi8cm8oOkSYgOUuedNDs4rg\nJjNfILfdYQKBgQCHGVDzgIk36S37P4eXuZ2aJvjV5nwKmhuWFacgbHvJ3isYcSlm\nXWLzv38iQ8Y/hGJICdk/0ZWdQkONdQUCM0FK2Xyl/CwcwV1RED9rwCiukeU8TcS8\naHgC/hy/0mnBP6OK0UTAb1Ugt0kk9zibnJf7j+dpOYVShr1QKNRnnG802QKBgGkw\nLsC4U8/uCoEvDDOvsmoViYCjFrcEhwDaPa77fjOi0nM1wBaxcYjPT+LOXD92xuxY\nry+476qTXEfRGnC9u/H6Ys9LMR57PtHNF0mkOl6TDBX1ClvseFzFrZ1o3Adis+6d\n6ZpJgzTPVB/oIaRtZoJMWD1JVJy5LUV+h1WSLYkhAoGAQD05XW/Y61KrVo+WK/Nf\n4FIRcMgVYr14D5roZdhqIVJ3nGdSjs/7pNnL8BaGFOTCJqrjiwiZQyAFMtyASWE/\ncUeo+gvGwKnT1EUq1uNl0t0tvKJJhQQydK7V1QEnYMvITQQMZl06/PLW+5LMnhIB\nflYBxNy00kqSp/oXu/FLKoM=\n-----END PRIVATE KEY-----\n",
+  "client_email": "streamlit-access@iot-irrigation-dashboard.iam.gserviceaccount.com",
+  "client_id": "113007032429977914757",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/streamlit-access%40iot-irrigation-dashboard.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
