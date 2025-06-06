@@ -6,13 +6,17 @@ import time
 
 # Setup Google Sheets API
 scope = ["https://spreadsheets.google.com/feeds", "https://www.googleapis.com/auth/drive"]
-creds = ServiceAccountCredentials.from_json_keyfile_name("iot-irrigation-dashboard-f5014770d38d.json", scope)
+creds_dict = dict(st.secrets["gspread"])
+creds = ServiceAccountCredentials.from_json_keyfile_dict(creds_dict, scope)
 client = gspread.authorize(creds)
 
 
 # Buka spreadsheet
 spreadsheet = client.open_by_key("19dRpsMDpz8EcSnyIYVz_fYjnz55-Id1j5SHZzzTBTnE")  # Ganti dengan ID spreadsheet kamu
 sheet = spreadsheet.sheet1
+data = sheet.get_all_records()
+st.write("Data dari Google Sheets:")
+st.write(data)
 
 # Ambil data
 data = sheet.get_all_records()
